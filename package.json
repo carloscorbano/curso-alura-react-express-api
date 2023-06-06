@@ -1,0 +1,23 @@
+{
+  "name": "react-express-api",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r <img src=\"https://github.com/MonicaHillman/aluraplay-requisicoes/raw/main/img/logo.png\" alt=\"Logo Alura\" width=\"60\" height=\"60\" />\r </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carloscorbano/curso-alura-react-express-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carloscorbano/curso-alura-react-express-api/issues"
+  },
+  "homepage": "https://github.com/carloscorbano/curso-alura-react-express-api#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
