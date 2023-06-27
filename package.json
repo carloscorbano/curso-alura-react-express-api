@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/carloscorbano/curso-alura-react-express-api#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.18.2",
     "nodemon": "^2.0.22"
   }
