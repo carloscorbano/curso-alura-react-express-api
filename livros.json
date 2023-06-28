@@ -1,34 +1,22 @@
 [
-    {
-        "id": "4",
-        "nome": "Entendendo algoritmos"
+    { 
+        "id": "1", 
+        "nome": "Angular 11 Firebase", 
+        "img": "Angular-11-e-Firebase.png" 
     },
-    {
-        "id": "5",
-        "nome": "Cangaceiro Javascript"
+    { 
+        "id": "2", 
+        "nome": "Cangaceiro Javascript", 
+        "img": "Cangaceiro-Javascript.png" 
     },
-    {
-        "id": "7",
-        "nome": "Guia básico de C#"
+    { 
+        "id": "3", 
+        "nome": "Bootstrap 4", 
+        "img": "Bootstrap4.png" 
     },
-    {
-        "id": "8",
-        "nome": "Guia básico de JavaScript"
-    },
-    {
-        "id": "9",
-        "nome": "Código Limpo"
-    },
-    {
-        "id": "10",
-        "nome": "JavaScript para iniciantes"
-    },
-    {
-        "id": "11",
-        "nome": "Conhecendo o python"
-    },
-    {
-        "id": "12",
-        "nome": "Imersão Alura"
+    { 
+        "id": "4", 
+        "nome": "Guia Prático de Typescript", 
+        "img": "Guia-prático-de-Typescript.png" 
     }
 ]

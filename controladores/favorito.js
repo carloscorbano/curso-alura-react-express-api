@@ -13,9 +13,13 @@ function getFavoritos(req, res) {
 function postFavorito(req, res) {
     try {
         const id = req.params.id;
-        insereFavorito(id);
-        res.status(201);
-        res.send('Favorito inserido com sucesso!');
+        if(insereFavorito(id)) {
+            res.status(201);
+            res.send('Favorito inserido com sucesso!');
+        } else {
+            res.status(304);
+            res.send('Já contêm esse favorito.')
+        }
     } catch(error) {
         res.status(500);
         res.send(error.message);
